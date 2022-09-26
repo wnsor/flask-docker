@@ -1,2 +1,3 @@
 Flask==1.1.4
 easyAI==2.0.12
+markupsafe==2.0.1
